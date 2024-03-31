@@ -36,3 +36,6 @@ The dashboard showcases the Supermarket Sales data for the year 2019, providing 
 
 Access for my visualization:
 https://public.tableau.com/app/profile/jhon.paolo.ochengco/viz/TermProject_17019389403540/Dashboard1?publish=yes&fbclid=IwAR0JuhRWUyJ5UfBpLXStOKzCDFuQDZWyAyb9jp8F4wohV9Zl0G8EF6nevzQ
+
+### Insights
+- Total Gross Income for the supermarket sales dataset shows that the overall income generated is15.38K. This means that, in total, the supermarket made that amount of money from all its sales.Understanding the total gross income is crucial for assessing the supermarket's financial performance. 
