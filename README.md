@@ -1,6 +1,6 @@
 # Supermarket Sales
 ### Concept Idea
-The project focuses on utilizing visualizations to convey a narrative based on supermarket sales data. Various graph types, such as bar graphs, are employed to enhance accessibility and understanding. The team aims to analyze the information depicted in the charts to identify areas of strength and improvement for the supermarket. Through this analysis, they seek to generate smart ideas for boosting sales and enhancing customer satisfaction. The project's overarching goal is to transform data into visual stories that offer valuable insights, uncover patterns, and highlight trends to inform decision-making and ultimately improve the supermarket's overall performance.
+The project focuses on utilizing visualizations to convey a narrative based on supermarket sales data. Various graph types, such as bar graphs, are employed to enhance accessibility and understanding. It aims to analyze the information depicted in the charts to identify areas of strength and improvement for the supermarket. Through this analysis, they seek to generate smart ideas for boosting sales and enhancing customer satisfaction. The project's overarching goal is to transform data into visual stories that offer valuable insights, uncover patterns, and highlight trends to inform decision-making and ultimately improve the supermarket's overall performance.
 
 ### Data Source
 https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
