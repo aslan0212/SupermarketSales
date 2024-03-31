@@ -12,3 +12,8 @@ The data type in the "Date" column is inconsistent; some dates are in the date d
 ![Screenshot 2024-03-31 112832](https://github.com/ochengco-paolo/SupermarketSales/assets/140794262/0ac0a5d4-0b87-4d5b-ac61-4095e6b6f104)
 
 ### Data Processing
+Since the "Date" column is inconsistent and it needed to be consistent by format dd/mm/yyyy, I firstly execute the **Text to Columns** by delimiter of '/'. After that, I namely the columns by "Day", "Month", and "Year". And as you can see in the screenshot below, I used **Conditional Formatting > Highlight Cell Rules > Greater Than = 12**  in the month column to distinguished all the inconsistent date format in the dataset.
+![1](https://github.com/ochengco-paolo/SupermarketSales/assets/140794262/4d814b5b-ebeb-49ce-9189-dd4013c9dbec)
+
+After that, I filtered all the inconsistent Date format and copy all the values that have greater that 12 in the Month and put it in Day column since that is the right position for the data and also with the day to Month. After that, I named the column "NewDay" and "NewMonth" to not be confuse with the process. Also, I added "NewDate" column since this will be the final output for the Date column by using the formula **=DATE(Year, Month, Day)**.
+![3](https://github.com/ochengco-paolo/SupermarketSales/assets/140794262/78b16f45-84c9-4c8d-95aa-d36f992c7bf1)
