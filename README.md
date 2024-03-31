@@ -27,3 +27,12 @@ To differentiate these modified columns, I labeled them as "NewDay" and "NewMont
 Following verification of the corrected date values, I removed the auxiliary columns "NewDay", "NewMonth", and "Year", streamlining the dataset. Finally, I renamed the "NewDate" column to "Date", ensuring consistency and clarity in column naming conventions.
 
 ![4](https://github.com/ochengco-paolo/SupermarketSales/assets/140794262/de04ca4e-f360-4be0-847a-e171755ab8d5)
+
+
+### Data Visualization
+The dashboard showcases the Supermarket Sales data for the year 2019, providing insights into sales performance, trends, and key metrics for analysis and decision-making.
+
+![Supermarket Sales 2019](https://github.com/ochengco-paolo/SupermarketSales/assets/140794262/976a7efd-15d4-4843-8f15-fed00bef9ba7)
+
+Access for my visualization:
+https://public.tableau.com/app/profile/jhon.paolo.ochengco/viz/TermProject_17019389403540/Dashboard1?publish=yes&fbclid=IwAR0JuhRWUyJ5UfBpLXStOKzCDFuQDZWyAyb9jp8F4wohV9Zl0G8EF6nevzQ
